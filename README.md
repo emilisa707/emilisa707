@@ -4,8 +4,6 @@ I'am **Emilisa**.\
 
 I'am a **Game Programmer** di [Everidea](https://everidea.id/).\
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-
 I also have a master degree [Digital and Game Media Technology] since july 2021.\
 
 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/e-m-i-l-i-s-a-110207107/).
