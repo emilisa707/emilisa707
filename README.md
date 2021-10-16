@@ -2,7 +2,7 @@
 
 I'am **Emilisa**.
 
-I'am a **Game Programmer** di [Everidea](https://everidea.id/).
+I'am a **Game Programmer** at [Everidea](https://everidea.id/).
 
 I also have a master degree [Digital and Game Media Technology] since july 2021.
 
