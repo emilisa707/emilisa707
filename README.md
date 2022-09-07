@@ -6,7 +6,7 @@ I'am a **Game Programmer** at [Everidea](https://everidea.id/).
 
 I also have a master degree [Digital and Game Media Technology] since july 2021.
 
-If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/e-m-i-l-i-s-a-110207107/).
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/emilisa707/).
 
 <p align="left">
 <a href="https://github.com/emilisa707">
