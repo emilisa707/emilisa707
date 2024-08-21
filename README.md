@@ -2,7 +2,7 @@
 
 I'am **Emilisa**.
 
-I'am a **Game Programmer** at [Brandoville Studio](https://studios.brandoville.com/), and Co Founder at @Mushroomallow Studio.
+I'am a **Game Programmer** and Co Founder at @Mushroomallow Studio.
 
 I also have a master degree [Digital and Game Media Technology] since july 2021.
 
