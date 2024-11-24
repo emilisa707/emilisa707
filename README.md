@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Mushroomallow Project](https://mushroomallow.itch.io/)
 
-- 🌱 I’m currently learning **Unreal**
+- 🌱 I’m currently learning **Unreal** and **.NET MAUI**
 
 - 👯 I’m looking to collaborate on **UnityProject**
 
